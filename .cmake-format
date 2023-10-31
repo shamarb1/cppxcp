@@ -1,0 +1,10 @@
+format:
+  line_width: 120
+  tab_size: 2
+  max_subgroups_hwrap: 3
+  max_pargs_hwrap: 3
+  max_rows_cmdline: 2
+  command_case: lower
+  keyword_case: upper
+  autosort: true
+  dangle_parens: true

@@ -1,0 +1,27 @@
+# Code style for the project as agreed by Techleads and documented on Confluence
+# Do not modify without approval from the Techleads teams - even small changes have huge impact on codebase
+Language: Cpp
+BasedOnStyle: Google
+# Deviation for bigger screens / more descriptive names
+ColumnLimit : 120
+# Deviation accepted on 2017-11-06 to use 4 spaces
+AccessModifierOffset: -2
+ContinuationIndentWidth: 8
+IndentWidth: 4
+# Deviation for reproducible behavior of pointer position
+DerivePointerAlignment: false
+# More readable function calls/declarations
+AllowAllParametersOfDeclarationOnNextLine: false
+BinPackArguments: false
+BinPackParameters: false
+# Deviation for more readable empty/short functions
+AllowShortFunctionsOnASingleLine: Inline
+---
+Language: Java
+BasedOnStyle: Google
+# Deviation for bigger screens / more descriptive names
+ColumnLimit : 120
+# Deviation accepted on 2017-11-06 to use 4 spaces
+AccessModifierOffset: -2
+ContinuationIndentWidth: 4
+IndentWidth: 4

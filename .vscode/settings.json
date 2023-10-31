@@ -1,0 +1,9 @@
+{   
+    "licenser.license": "Custom",
+    "licenser.useSingleLineStyle": false,
+    "licenser.customHeader": "Copyright (C) @YEAR@ - Volvo Car Corporation\\n\\nAll Rights Reserved\\n\\nLEGAL NOTICE:  All information (including intellectual and technical concepts) contained herein is, and remains the\\nproperty of or licensed to Volvo Car Corporation. This information is proprietary to Volvo Car Corporation and may be\\ncovered by patents or patent applications. This information is protected by trade secret or copyright law.\\nDissemination of this information or reproduction of this material is strictly forbidden unless prior written\\npermission is obtained from Volvo Car Corporation.",
+    "C/C++ Include Guard.Comment Style": "None",
+    "C/C++ Include Guard.Macro Type": "Filename",
+    "C/C++ Include Guard.Prefix": "XCP_",
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+}
